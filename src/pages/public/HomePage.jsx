@@ -65,7 +65,7 @@ export default function HomePage() {
             </div>
 
             <div className="flex flex-wrap gap-8 animate-slide-up" style={{animationDelay:'250ms'}}>
-              {[['500+','Students'],['95%','Pass Rate'],['8+ Yrs','Experience'],['3','Subjects']].map(([n,l])=>(
+              {[['1000+','Students Mentored'],['95%','Board Success Rate'],['10+ Yrs','Teaching Experience'],['10+','Expert Subjects Covered'],['Expert Faculty','Qualified Teachers'], ['Live Classes','Doubt Support']].map(([n,l])=>(
                 <div key={l} className="text-center">
                   <div className="font-display font-black text-2xl text-white">{n}</div>
                   <div className="text-xs text-white/40 uppercase tracking-wider mt-0.5">{l}</div>
