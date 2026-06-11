@@ -52,6 +52,9 @@ export default function HomePage() {
             <p className="text-lg text-gold-300/80 italic mb-3 animate-slide-up" style={{animationDelay:'100ms'}}>
               — <span className="text-gold-300 not-italic font-semibold">{s.slogan}</span>
             </p>
+            <p className="text-xl sm:text-2xl font-bold text-white mb-3 animate-slide-up" style={{animationDelay:'130ms'}}>
+              Unlock Your Academic Potential
+            </p>
             <p className="text-base text-white/50 mb-10 max-w-lg animate-slide-up" style={{animationDelay:'150ms'}}>
               {s.heroSubtitle}
             </p>

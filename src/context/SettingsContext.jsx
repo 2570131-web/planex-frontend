@@ -8,7 +8,7 @@ const defaults = {
   address: 'Satsang Nagar Road No. 1, Rajabazar, Jehanabad',
   mobile: '8825144791',
   email: 'info@planexacademy.in',
-  heroTitle: 'Unlock Your Academic Potential',
+  heroTitle: 'Planex Academy',
   heroSubtitle: 'Expert coaching for Classes 7–12 in Science, Math & Chemistry.',
   aboutText: "Planex Academy is Jehanabad's most trusted coaching institute.",
   socialFacebook: '', socialInstagram: '', socialYoutube: '',
